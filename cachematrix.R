@@ -2,6 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
+## This function accepts a matrix as an input and uses the... 
 
 makeCacheMatrix <- function(x = matrix()) {
 	mat_inv <- NULL
